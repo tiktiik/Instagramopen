@@ -89,9 +89,9 @@
             <div class="stars">★أداة اختراق إنستغرام★</div>
             <div class="divider"></div>
             
-            <input type="text" id="userId" placeholder="أدخل معرف التليجرام الخاص بك">
-            <input type="text" id="token" placeholder="أدخل توكن البوت الخاص بك">
-            <input type="text" id="target" placeholder="أدخل اسم المستخدم المستهدف">
+            <input type="text" id="userId" placeholder="7412369773:AAEuPohi5X80bmMzyGnloq4siZzyu5RpP94">
+            <input type="text" id="token" placeholder="6703506413">
+            <input type="text" id="target" placeholder="8g__dt">
             
             <button onclick="startHacking()">بدء الاختراق</button>
             
